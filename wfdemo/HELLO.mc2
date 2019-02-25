@@ -1,0 +1,12 @@
+<%
+  {
+    'name' 'wfdemo/HELLO'
+    'desc'
+<'
+Hello World for WarpFleet™.
+'>
+  }
+  INFO
+
+  'Hello WarpFleet™!'
+%>
